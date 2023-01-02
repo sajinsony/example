@@ -1,9 +1,9 @@
 # Example.git
 
-~~For Quoting text~~
+- [ ] ~~For Quoting text~~
 > This is _not_ an **example**
 
-### Fond Size by 6 level using #
+- [ ] ### Fond Size by 6 level using #
 
 # Just
 
@@ -11,21 +11,21 @@
 
 ###### Learn
 
-~~For Indicate~~
+- [ ] ~~For Indicate~~
 
 ```
 Merry Christmas
 Happy Newyear
 ```
-~~To add a Link~~
+- [ ] ~~To add a Link~~
 
 ssh id of example.git to view [click here](https://github.com/sajinsony/example.git).
 
-~~To add an image~~
+- [ ] ~~To add an image~~
 
 To check the [image](https://images.news18.com/ibnlive/uploads/2022/12/07gktkpturbxy85yzyzyzmzztc0ntdjzta5odgwnwriztgzmmezzmm2ms5qcgerlqlna6uawsm-16699644293x2.jpg?impolicy=website&width=510&height=356)
 
-~~To List Items~~
+- [ ] ~~To List Items~~
 
 - cake
 - wine
@@ -33,18 +33,30 @@ To check the [image](https://images.news18.com/ibnlive/uploads/2022/12/07gktkptu
 1 cake
 2 wine
 
-~~For Task list~~
+- [ ] ~~For Task list~~
 
 - [x] #HI
 - [ ] #Hello
 - [x] #How are you
 
-~~Mentions~~
+- [ ] ~~Mentions~~
 
 @sajin_sony  is the instagram id
 
+- [ ] ~~Hide Content~~
+
 <!-- This content will not appear in the rendered Markdown -->
 
-~~Hide Content~~
+- [ ] ~~Emojis~~
 
-<!
+**cheat sheet** https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
+
+using this :heart_eyes:
+
+- [ ] ~~FootNotes~~
+
+     Sajin sony[^1].
+
+        Chackalayil House[^2].
+
+            At last need a close note[^note].
